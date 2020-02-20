@@ -8,10 +8,10 @@
 ### 1) Recap metoder
 - metodesignatur - jpg
 - ComputeSum-opgaven
+- Memory-map og Metodebyggeren
+- øvelse: Renter (metodebyggerRenter.doc)
 - ComputeBMI-opgaverne
 - ComputeVAT-opgaverne
-- Memory-map og Metodebyggeren
-- øvelse: Renter (doc)
 
 ### 2) Relationelle operatorer
 - jshell om booleans
@@ -20,7 +20,8 @@
 
 ### 3) if-else
 - points to grade eksempel (i Viszzer)
-### 4) the switch
+
+### 4) The Switch
 - grade to points eksempel 
 - The game: where to go?
 

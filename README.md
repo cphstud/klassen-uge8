@@ -1,17 +1,21 @@
 # Uge8: Conditionals and Logic
 ### 
-torsdag d 20/2 - Recap Metoder, if/else samt switch
-fredag d 21/2 - mere logik, betingelser og metoder
+ - torsdag d 20/2 - Recap Metoder, if/else samt switch
+ - fredag d 21/2 - mere logik, betingelser og metoder
 
 
 ### 1) Recap metoder
+- metodesignatur - jpg
 - ComputeSum-opgaven
 - ComputeBMI-opgaverne
 - ComputeVAT-opgaverne
 - Memory-map og Metodebyggeren
+- øvelse: Renter (doc)
 
 ### 2) Relationelle operatorer
 - jshell om booleans
+- opg 5.1
+- tip28 med Slack
 
 ### 3) if-else
 - points to grade eksempel (i Viszzer)
@@ -27,7 +31,7 @@ fredag d 21/2 - mere logik, betingelser og metoder
 
 ### 6) Logiske operatorer
 - Booleans
-- opg 5.1 og 5.2
+- opg 5.2
 
 ### 7) Validering af input
 

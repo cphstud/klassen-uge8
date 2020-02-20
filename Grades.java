@@ -18,10 +18,9 @@ public class Grades {
       retVal = 'B';
     } else if (p >= 40) {
       retVal = 'C';
-    }else if (p >= 20) {
+    } else if (p >= 20) {
       retVal = 'D';
     }
     return retVal;
   }
-
 }

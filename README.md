@@ -11,8 +11,6 @@
 - ComputeSum-opgaven
 - Memory-map og Metodebyggeren
 - øvelse: Renter (metodebyggerRenter.doc)
-- ComputeBMI-opgaverne
-- ComputeVAT-opgaverne
 
 ### 2) Relationelle operatorer
 - jshell om booleans
@@ -29,16 +27,27 @@
 ### 5) The Game
 - intro og layout
 - Værktøjskassen: Trello 
-- Værktøjskassen: IntelliJ 
 - First Sprint: Setup & Attack
 
 ### 6) Logiske operatorer
 - Booleans
-- opg 5.2
-
-### 7) Validering af input
 
 ----- Fredag -----
 
-### 8) Recap fra Torsdag
+### 7) Recap fra Torsdag
+- ComputeBMI-opgaverne (sammenlign)
+- ComputeVAT-opgaverne (sammenlign)
+- Memory-map [link](http://pythontutor.com/java.html#mode=edit) af ComputeVAT
+- Værktøjskassen: IntelliJ 
+
+### 8) Logiske og Relationelle operatorer
+- From points to grades (block of statements, if-else)
+- From grades to points (switch)
+- opg 5.2
+- Logiske udtryk (pdf)
+
+### 9) Metodebygger-opgaver
+- NumberGuesser
+- YearToAge
+- MakeExercise
 

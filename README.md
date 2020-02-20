@@ -3,6 +3,7 @@
  
  - torsdag d 20/2 - Recap Metoder, if/else samt switch
  - fredag d 21/2 - mere logik, betingelser og metoder
+  - [link til Trello](https://trello.com/invite/b/zI16RBJR/04dab8bbcd00a071d6ec7cca9ab41eab/javagamedev)
 
 
 ### 1) Recap metoder

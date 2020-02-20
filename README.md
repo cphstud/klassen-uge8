@@ -1,5 +1,6 @@
 # Uge8: Conditionals and Logic
-### 
+### OBS! Jeg lander først ca. 12:40
+ 
  - torsdag d 20/2 - Recap Metoder, if/else samt switch
  - fredag d 21/2 - mere logik, betingelser og metoder
 

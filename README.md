@@ -35,9 +35,10 @@
 ----- Fredag -----
 
 ### 7) Recap fra Torsdag
+- opvarmning 
+- Memory-map [link](http://pythontutor.com/java.html#mode=edit) af ComputeVAT
 - ComputeBMI-opgaverne (sammenlign)
 - ComputeVAT-opgaverne (sammenlign)
-- Memory-map [link](http://pythontutor.com/java.html#mode=edit) af ComputeVAT
 - Værktøjskassen: IntelliJ 
 
 ### 8) Logiske og Relationelle operatorer
